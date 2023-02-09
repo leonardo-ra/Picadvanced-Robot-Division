@@ -1,3 +1,3 @@
-# Roboptics 2 - Electric Boogaloo
+# Roboptics II
 
 ## The continued implementation of the vision-enhanced robotic arm into a production line.
