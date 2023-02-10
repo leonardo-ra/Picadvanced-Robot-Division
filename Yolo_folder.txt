@@ -1,0 +1,11 @@
+Ir ao git do yolo: https://github.com/ultralytics/yolov5
+
+Download Zip para a pasta com os restantes ficheiros (main director)
+
+Unzipp
+
+Change name from yolov5-master to yolov5
+
+yolov5-> models -> copy weights files (best (1).pt, best_box2.pt)
+
+you must have the weight files also on the main director
