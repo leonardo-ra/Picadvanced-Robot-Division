@@ -1,0 +1,13 @@
+{
+    "PT": [
+        "Terminado com sucesso", 
+        ["Erro","encontrado"], 
+        "Iniciou com sucesso", 
+        "Final Result"],
+
+    "EN":[
+        "Succesfully finished",
+        ["Error","found"], 
+        "Succesfully started", 
+        "Final Result"]
+}
